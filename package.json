@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "bootstrap": "^3.3.7",
-        "datatables.net": "^1.10.19",
+        "datatables.net": "^1.10.22",
         "datatables.net-autofill": "^2.3.1",
         "datatables.net-autofill-bs": "^2.0.0",
         "datatables.net-bs": "^1.10.19",
